@@ -1,2 +1,2 @@
-# Hackerrank
-All of my hackerrank solutions, plus some of my friends who submitted them, appropriately credited
+# Programming Hub's Challenges
+An archive of all challenges and their solutions (if any have been found yet) for the telegram group Programming Hub
