@@ -1,0 +1,24 @@
+Find if an alphabet is present in a string  or not and if yes than print its position and  count how many times it present.
+
+eg1:
+
+Enter a string:This is a string
+
+Enter the alphabet to be searched:i
+
+Position of first occurrence: 2
+
+Number of occurrence: 3
+
+
+
+eg2:
+
+Enter a string:hello, how r u
+
+Enter the alphabet to be searched:t
+
+Not Present
+
+
+
