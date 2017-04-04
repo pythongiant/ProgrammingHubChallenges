@@ -1,3 +1,50 @@
+"""
+Write a programe that takes in a string given by the user and replaces the character with other one on user's prompt.
+
+ 
+
+For example:
+
+ 
+
+Input:
+
+Enter something:
+
+Hello
+
+Enter the character you want to replace:
+
+e
+
+Enter the character you want to replace it with:
+
+E
+
+Output:
+
+HEllo
+
+ 
+
+Input:
+
+Enter something:
+
+world
+
+Enter the character you want to replace:
+
+o
+
+Enter the character you want to replace it with:
+
+a
+
+Output:
+
+warld
+"""
 UserString=input("Enter something:")
 Replace=input("Enter the character you wanna replace:")
 Replace_With=input("Enter the character you wanna replace the old one with:")
