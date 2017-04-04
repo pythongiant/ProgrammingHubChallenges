@@ -1,0 +1,16 @@
+UserString=input("Enter something:")
+Replace=input("Enter the character you wanna replace:")
+Replace_With=input("Enter the character you wanna replace the old one with:")
+ 
+# write your logic here
+def Logic(a,b,c):
+    a=UserString
+    b=Replace
+    c=Replace_With
+    d=list(a)
+    for i in range(len(d)) :
+        if d[i]==b:
+            d[i]=c
+    return ''.join(d)     
+print (Logic(UserString,Replace,Replace_With))
+
